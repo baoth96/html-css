@@ -1,0 +1,18 @@
+.chu_nhat{
+    width: 550px;
+    height: 450px;
+    background-color: aqua;
+    margin-left: 200px;
+    margin-top: 40px;
+    padding-top: 1px;
+}
+
+.chu_nhat_2{
+    width: 100px;
+    height: 300px;
+    background-color: blue;
+    margin-left: 40px;
+    margin-top: 40px;
+    border: 5px solid red;
+    padding-left: 50px;  
+}
